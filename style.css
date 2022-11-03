@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.header{
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0.5em;
+}
+.voting_table{
+    display: flex;
+    justify-content: center;
+}
+th{
+    padding: 1em;
+}
+table, th, td{
+    border: 1px solid;
+}
+td{
+    padding: 0.3em;
+}
